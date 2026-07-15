@@ -119,7 +119,7 @@ O ciclo inclui:
 
 ## 👨‍💻 Autor
 
-**Israel Cristo Manuel**  
+**Israel Cassute (Zuba)**  
 Projeto criado para fins educacionais e prática profissional de testes manuais de software.
 
 ---
