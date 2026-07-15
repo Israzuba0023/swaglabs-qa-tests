@@ -1,5 +1,3 @@
-# ✅ **README.md COMPLETO (COPIAR E COLAR)**
-
 # 🚀 Projeto de Testes Manuais Funcionais – SwagLabs (QA)
 
 Este repositório contém toda a documentação produzida no âmbito do módulo **“O dia a dia de um QA: prática de testes manuais funcionais”**, incluindo:
