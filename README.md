@@ -117,7 +117,12 @@ O ciclo inclui:
 
 ## 👨‍💻 Autor
 
-**Israel Cassute (Zuba)**  
+**Israel Cassute (Zuba)**
+
+Engenhario Informático e Comunicações
+
+**` DIO Campus Expert |Cybersecurity & AI Engineer | DevSecOps | Pentest |  Systems Analysis | Infrastructure Automation | MLOps `**
+
 Projeto criado para fins educacionais e prática profissional de testes manuais de software.
 
 ---
